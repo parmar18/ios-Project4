@@ -1,36 +1,36 @@
-# Project 3 - *Name of App Here*
+# Project 4 - *Trivia*
 
 Submitted by: **Siddharthsinh Parmar**
 
-**Trivia** is an app that ask you three basic question. 
+**Trivia** is an app that takes a tough quiz which is linked to an API
 
-Time spent: **3** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] User can view the current question and 4 different answers
-- [X] User can view the next question after tapping an answer
-- [X] User can answer at least 3 different questions
+- [X] User can view and answer at least 5 trivia questions.
+- [X] App retrieves question data from the Open Trivia Database API.
+- [X] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [X] Users can see score after submitting all questions.
+- [X] True or False questions only have two options.
 
 
 The following **optional** features are implemented:
 
-- [ ] User can use the vertical orientation of the app on any device
-- [X] User can track the question they are on and how many questions are left
-- [X] User can see how many questions they got correct after answering all questions
-- [X] User should be able to restart the game after they've finished answering all questions
+  
+- [ ] Allow the user to choose a specific category of questions.
+- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
+- [X] It shows which question you are on out of all.
 
 
 ## Notes
 
-Initial Setup was tough!
+Making the API class and co-relating the entire class.
 
 ## License
 
